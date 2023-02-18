@@ -34,7 +34,7 @@ const userController = {
       });
   },
 
-  // Create a  user
+  // Create a user
   createUser(req, res) {
     User.create(req.body)
       .then((dbUserData) => {
