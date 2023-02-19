@@ -19,7 +19,7 @@ An API for a social network web application where users can share their thoughts
 
 ## Walkthrough Video
 
-N/A
+https://drive.google.com/file/d/1JFfYQ777PrCddtdIs-wCtNOW2htyFC8F/view?usp=sharing
 
 ## Deployed Application
 
